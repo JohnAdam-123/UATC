@@ -21,3 +21,7 @@ Example:
 cd D:\UATC\ACADEMICS\SEMESTER I\ASSIGNMENTS\NTA 4\Program
 # 3. then, Run the installation command
 pip install -r requirements.txt
+
+# After successfully installation of the dependencies, you can run the login.py file
+e.g python3 login.py 
+(depending on the python version installed, you can use python login.py) then press Enter
