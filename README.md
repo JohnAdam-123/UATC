@@ -1,4 +1,4 @@
-This project was developed to implement a simple simple system (Student Management System) representation a colllege, using python with the Tkinter library.
+This project was developed to implement a simple system (Student Management System) representation a colllege, using python with the Tkinter library.
 It also included some of query database code that help in creating database table for user authentication through registration and login. 
 I invite you and everyone for any more advancement that you would like to contribute, and help others to learn more.
 
